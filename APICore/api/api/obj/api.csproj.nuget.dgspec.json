@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ETUDES\\PROJETS D'ETUDE\\WEB\\WEB\\Realisaiton GP\\APICore\\api\\api\\api.csproj": {}
+    "D:\\ETUDES\\PROJETS D'ETUDE\\WEB\\WEB\\gestion-projet\\APICore\\api\\api\\api.csproj": {}
   },
   "projects": {
-    "D:\\ETUDES\\PROJETS D'ETUDE\\WEB\\WEB\\Realisaiton GP\\APICore\\api\\api\\api.csproj": {
+    "D:\\ETUDES\\PROJETS D'ETUDE\\WEB\\WEB\\gestion-projet\\APICore\\api\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ETUDES\\PROJETS D'ETUDE\\WEB\\WEB\\Realisaiton GP\\APICore\\api\\api\\api.csproj",
+        "projectUniqueName": "D:\\ETUDES\\PROJETS D'ETUDE\\WEB\\WEB\\gestion-projet\\APICore\\api\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "D:\\ETUDES\\PROJETS D'ETUDE\\WEB\\WEB\\Realisaiton GP\\APICore\\api\\api\\api.csproj",
+        "projectPath": "D:\\ETUDES\\PROJETS D'ETUDE\\WEB\\WEB\\gestion-projet\\APICore\\api\\api\\api.csproj",
         "packagesPath": "C:\\Users\\Franco\\.nuget\\packages\\",
-        "outputPath": "D:\\ETUDES\\PROJETS D'ETUDE\\WEB\\WEB\\Realisaiton GP\\APICore\\api\\api\\obj\\",
+        "outputPath": "D:\\ETUDES\\PROJETS D'ETUDE\\WEB\\WEB\\gestion-projet\\APICore\\api\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

@@ -21,3 +21,15 @@ vita zay de mbola ts pusher iny,de rehefa ipush elah de
 git push origin -u ZoMaurien
 
 de amzay mba misoratra any am github eo ny branche alah
+
+
+de rehefa iaka modification nataonay ka any am main dia
+makao am branche "main" aloh de manao anito
+git pull 
+
+de aveo rehefa vita zay de mande any am branche anlah elah
+manao git add sy commit ian de aveo manao git merge main
+
+apres manao push amzay
+git push ftsn
+
