@@ -1,6 +1,9 @@
+
+ovaiko ty test.txt ty 
 novaiko ito hoy Franco
 
 novaiko ian
 
 
 novaiko ito hoy Roy
+
