@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vNmsiX1+Zc5thc14/AJXY1IS4A6Co+MB8V3i5DlXz7MfDtOC/YKFpBytgtYSHLa5LI34ZoZo0VitfQExdBcIaw==",
+  "dgSpecHash": "j/SOJZDeuk2TJYvWT9DA+dwBYfpsiXAaahpV5z8Lwhc83QMCDjYPtLdw/nTlEVlfGP/jlB2kamAQjis3DXFV+A==",
   "success": true,
-  "projectFilePath": "D:\\ETUDES\\PROJETS D'ETUDE\\WEB\\WEB\\Realisaiton GP\\APICore\\api\\api\\api.csproj",
+  "projectFilePath": "D:\\ETUDES\\PROJETS D'ETUDE\\WEB\\WEB\\gestion-projet\\APICore\\api\\api\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Franco\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.0\\microsoft.aspnetcore.jsonpatch.3.1.0.nupkg.sha512",
     "C:\\Users\\Franco\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.0.nupkg.sha512",
