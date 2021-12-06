@@ -3,7 +3,6 @@ body {
 }
 
 .homepage {
-  background-image: url('http://localhost:3000/images/background.jpg');
-  background-repeat: no-repeat;
+  background: url('http://localhost:3000/images/background.jpg') no-repeat center center fixed;
   background-size: cover;
 }
