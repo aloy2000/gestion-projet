@@ -1,0 +1,23 @@
+rehefa avy mclone 
+de miditra amle dossier elah de manao git bash here
+
+de rehefa misokatra iny de mahita "(main)" en blue zay elah
+dikanio de am branche "main" elah zany
+
+de mamorona branche anlah elah
+	git branch ZoMaurien
+
+vita iny commande iny de makao am branche anlah amzay elah de ao elah miasa
+de rehefa ifindra ao elah de git checkout ZoMaurien commande soratanlah
+
+de rehefa vita zay de hitanlah en blue ny nom anle branche anlah "(ZoMaurien)"
+dikanio de efa ao anatinle branche anlah elah
+
+de miasa elah de miasa de miasa de rehefa vita ze ataonlah ao de te izesta amnay elah de manao 
+git add . 
+git commit -m "sldfsdlsjfj"
+
+vita zay de mbola ts pusher iny,de rehefa ipush elah de
+git push origin -u ZoMaurien
+
+de amzay mba misoratra any am github eo ny branche alah
