@@ -1,8 +1,104 @@
-body {
-  font-size: 18px;
+
+
+
+.background {
+    margin-top: -20px;
+    background-image: url('http://localhost:3000/images/background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 39.5em;   
+    filter: blur(10px);
+    
 }
 
-.homepage {
-  background: url('http://localhost:3000/images/background.jpg') no-repeat center center fixed;
-  background-size: cover;
+
+.contents{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    
 }
+.title-container{
+    align-self: center;
+    width: 20%;
+    margin-top: 15px
+}
+
+.title {
+    font-family: 'Architects Daughter', cursive;
+    /*border: 1px groove rgb(17, 25, 129);*/
+    border-radius: 10px;
+    background: transparent;
+    color: white;
+    text-align: center;
+    font-weight: 200;
+    padding: -20px;
+    box-shadow: 10px 10px 10px transparent;
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.images div {
+    margin-right: 45px;
+}
+
+.images img {
+    border: 1px solid transparent;
+    border-radius: 20px;
+    width: 350px;
+    transition: 0.8s width;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navigation a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+    font-family: 'Architects Daughter', cursive;
+    transition: 0.4s font-size;
+    font-size: 25px;
+
+}
+
+.navigation .test:hover {
+    background: #E85F23;
+    border-radius: 10px;
+    color: white;
+}
+
+.inscription {
+    margin-top: 12px;
+}
+
+.link {
+    margin-right: 15px;
+}
+
+.slogan {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 45px;
+}
+
+.slogan h2 {
+    font-weight: 800;
+    color: white;
+    font-size: 30px;
+}
+
+
